@@ -1,0 +1,19 @@
+Notepad++
+Visual Studio 2015
+Resharper 插件
+RegexBuddy 正则工具
+Fiddler 抓包工具
+
+Google XPath Helper Google浏览器插件
+
+selenium+Google
+selenium+phantomjs
+等等
+模拟浏览器行为
+
+tesseract-ocr识别验证码
+目前只会处理数字
+
+MYSQL SQLyogEnt mysql客户端
+
+lantern-installer-beta  翻墙
