@@ -1,19 +1,27 @@
-Notepad++
+ï»¿Notepad++
 Visual Studio 2015
-Resharper ²å¼ş
-RegexBuddy ÕıÔò¹¤¾ß
-Fiddler ×¥°ü¹¤¾ß
+Resharper æ’ä»¶
+RegexBuddy æ­£åˆ™å·¥å…·
+Fiddler æŠ“åŒ…å·¥å…·
 
-Google XPath Helper Googleä¯ÀÀÆ÷²å¼ş
+Google XPath Helper Googleæµè§ˆå™¨æ’ä»¶
 
 selenium+Google
 selenium+phantomjs
-µÈµÈ
-Ä£Äâä¯ÀÀÆ÷ĞĞÎª
+ç­‰ç­‰
+æ¨¡æ‹Ÿæµè§ˆå™¨è¡Œä¸º
 
-tesseract-ocrÊ¶±ğÑéÖ¤Âë
-Ä¿Ç°Ö»»á´¦ÀíÊı×Ö
+tesseract-ocrè¯†åˆ«éªŒè¯ç 
+ç›®å‰åªä¼šå¤„ç†æ•°å­—
 
-MYSQL SQLyogEnt mysql¿Í»§¶Ë
+MYSQL SQLyogEnt mysqlå®¢æˆ·ç«¯
 
-lantern-installer-beta  ·­Ç½
+lantern-installer-beta  ç¿»å¢™
+
+
+
+github desktop githubæ¡Œé¢
+
+git é…åˆgithubä½¿ç”¨
+
+makedownpad 2 makedownç¼–è¾‘å™¨
